@@ -1,7 +1,7 @@
 # Play-Delete
 Play and immediately delete watched video
 
-I like to watch tv series a lot and also I hate to rewatch any show. So everytime I watch a show I immediately delete the episod. 
+I like to watch tv series a lot and also I hate to rewatch any show. So everytime I watch a show I immediately delete the episode. 
 This was a boring task to do by hand so I automate it.
 
 
